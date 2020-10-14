@@ -1,0 +1,19 @@
+{
+  "name": "market-server",
+  "version": "1.0.0",
+  "description": "Market server code",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ask2mahtab/soya-server.git"
+  },
+  "author": "Mahtab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ask2mahtab/soya-server/issues"
+  },
+  "homepage": "https://github.com/ask2mahtab/soya-server#readme"
+}
